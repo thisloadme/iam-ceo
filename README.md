@@ -49,7 +49,7 @@ Claude Code Session (COO)
 ```bash
 # Clone or copy the framework into your project
 git clone https://github.com/thisloadme/iam-ceo
-cp -r iam-ceo/ /path/to/your/project/.claude/
+cp -r iam-ceo/. /path/to/your/project/.claude/
 ```
 
 Or create the structure manually:
@@ -280,10 +280,8 @@ Add login with Google OAuth
 - apps/web/components/GoogleButton.vue
 
 ### New API contract
-```
 POST /api/auth/google
 Response: { token: string, user: User }
-```
 
 ### Blockers
 None.
