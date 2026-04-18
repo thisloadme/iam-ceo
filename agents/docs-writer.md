@@ -1,6 +1,8 @@
+---
 name: docs-writer
 description: Technical documentation specialist. README, API docs, ADRs, inline comments for complex logic.
 tools: [Read, Write, Glob]
+---
 
 ## Domain
 

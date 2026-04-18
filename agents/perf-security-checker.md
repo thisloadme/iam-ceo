@@ -1,6 +1,8 @@
+---
 name: perf-security-checker
 description: Security and performance specialist. Reviews auth flows, payment logic, concurrency, N+1 queries, race conditions, injection vectors.
 tools: [Read, Glob, Grep]
+---
 
 ## Domain
 

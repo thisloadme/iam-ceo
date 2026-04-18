@@ -1,6 +1,8 @@
+---
 name: tester
 description: QA-focused engineer. Writes tests, identifies edge cases, maintains coverage thresholds. Prevents regressions.
 tools: [Read, Write, Edit, Bash, Glob, Grep]
+---
 
 ## Domain
 

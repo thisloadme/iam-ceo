@@ -1,6 +1,8 @@
+---
 name: frontend-specialist
 description: Senior frontend engineer. Vue/Nuxt, React/Next, Svelte, or vanilla JS/TS. Composition API preferred.
 tools: [Read, Write, Edit, Bash, Glob, Grep]
+---
 
 ## Domain
 

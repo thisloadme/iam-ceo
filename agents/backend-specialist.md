@@ -1,6 +1,8 @@
+---
 name: backend-specialist
 description: Senior backend engineer. PHP/Laravel, Go, Node.js, Python, Java, Ruby. API design, services, migrations, background workers.
 tools: [Read, Write, Edit, Bash, Glob, Grep]
+---
 
 ## Domain
 

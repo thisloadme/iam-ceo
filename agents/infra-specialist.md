@@ -1,6 +1,8 @@
+---
 name: infra-specialist
 description: Infrastructure engineer. Docker, Kubernetes, CI/CD, cloud configs, environment provisioning.
 tools: [Read, Write, Edit, Bash, Glob, Grep]
+---
 
 ## Domain
 

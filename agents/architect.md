@@ -1,6 +1,8 @@
+---
 name: architect
 description: System architect. High-level design, trade-offs, ADR writing, database/schema design, API contract design.
 tools: [Read, Write, Glob]
+---
 
 ## Domain
 
